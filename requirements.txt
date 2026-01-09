@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+statsmodels
+rouge-score
+nltk
+joblib
